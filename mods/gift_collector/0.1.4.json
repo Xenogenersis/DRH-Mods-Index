@@ -1,0 +1,17 @@
+{
+  "id": "gift_collector",
+  "name": "Gift Collector",
+  "version": "0.1.4",
+  "author": "XξИӦĜεй三尺Šĭ乌",
+  "description": "Automatically accepts selected gifts when inventory space is available and removes their town notification.",
+  "longDescription": "## Features\n\n- Automatically detects available gifts.\n- Automatically accepts selected gifts during the loading screen when sufficient inventory space is available.\n- Checks inventory limits before accepting gifts.\n- Optionally hides the gift notification from the town screen.\n- Avoids accepting gifts when the corresponding inventory is full.",
+  "api": "1.5",
+  "drh": "19",
+  "uses": [
+    "extends"
+  ],
+  "url": "https://github.com/Xenogenersis/DRH-Mod-Gift-Collector/releases/download/v0.1.4/gift_collector-0.1.4.zip",
+  "size": 15709,
+  "sha256": "db0b6fab566747848e2f291f21ee2008169528a6d6f50c679ae292b087da9358",
+  "source": "https://github.com/Xenogenersis/DRH-Mod-Gift-Collector"
+}
